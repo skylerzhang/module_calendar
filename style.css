@@ -1,0 +1,13 @@
+div, ul, li { padding: 0; margin: 0}
+ul, li {list-style: none;}
+.left, .right {width: 30px; height: 30px; line-height:30px; text-align: center; display: inline-block; cursor: pointer}
+.year {display: inline-block; width:150px; text-align: center; height: 30px; line-height: 30px;}
+.week { border-bottom: 1px #CCCCCC solid; overflow: hidden; width: 210px;}
+.week li {float: left; width: 30px; height: 30px; line-height: 30px; text-align: center;}
+.date {overflow: hidden; width: 210px;}
+.date li {float: left; width: 30px; height: 30px; line-height: 30px; text-align: center; cursor: pointer;}
+.date li:hover {background: #CCCCCC;}
+.weekend {color: red}
+.pass {color: gray;}
+.today {background: red;}
+.box {border: 1px #000000 solid; width: 210px; height: 211px; display: none; position: absolute;}
