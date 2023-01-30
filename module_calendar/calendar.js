@@ -12,7 +12,7 @@
         var oInput=document.getElementsByName(name)[0];
         var iNow=0;
 
-        //生成大框架
+        //生成大框架 543
         var oBox=document.createElement('div');
         arrBox.push(oBox);
         oBox.className='box';
