@@ -97,8 +97,8 @@
             oUl1.innerHTML='';
             var Days= monthDays();
             var weekDays= week();
-            if (i=0){
-                weekDays=7;
+            if (weekDays === 0){
+                weekDays = 7;
             }
             for (var i=0; i<weekDays-1; i++){
 
