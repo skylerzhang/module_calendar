@@ -6,7 +6,7 @@
     var arrBox=[];
     window.calendar=function (name){
         //var oUl=document.getElementsByClassName('date')[0];
-        //var oLeft=document.getElementsByClassName('left')[0];
+        //var oLeft=document.getElementsByClassName('left')[0];11111
         //var oRight=document.getElementsByClassName('right')[0];
         //var oYear=document.getElementsByClassName('year')[0];
         var oInput=document.getElementsByName(name)[0];
